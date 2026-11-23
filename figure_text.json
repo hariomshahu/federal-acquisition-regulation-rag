@@ -1,0 +1,47 @@
+{
+  "32.503-6Formula.jpg": {
+    "kind": "formula",
+    "section": "32.503-6",
+    "text": "Loss ratio factor: $3,000,000 ÷ $3,600,000 = 83.3%"
+  },
+  "32.503-10formula1.jpg": {
+    "kind": "formula",
+    "section": "32.503-10",
+    "text": "($2,000,000 × 80%) ÷ $2,200,000 = 72.7%"
+  },
+  "32.503-10formula2.jpg": {
+    "kind": "formula",
+    "section": "32.503-10",
+    "text": "($2,000,000 × 85%) ÷ $2,200,000 = 77.3%"
+  },
+  "47.403-3image1.jpg": {
+    "kind": "formula",
+    "section": "47.403-3",
+    "text": "(Sum of U.S.-flag carrier segment mileage, authorized ÷ Sum of all segment mileage, authorized) × Fare payable by Government"
+  },
+  "47.403-3image2.jpg": {
+    "kind": "formula",
+    "section": "47.403-3",
+    "text": "MINUS (Sum of U.S.-flag carrier segment mileage, traveled ÷ Sum of all segment mileage, traveled) × Through fare payed"
+  },
+  "FARNumbering.png": {
+    "kind": "illustration",
+    "section": "1.105-2",
+    "text": "Make-up of the FAR number citation 25.108-2: \"25\" is the Part; \"1\" is the Subpart; \"08\" is the Section; \"2\" is the Subsection."
+  },
+  "piid.png": {
+    "kind": "illustration",
+    "section": "4.1603",
+    "text": "Example PIID N00062 17 C 0001, by position and contents. Positions 1-6: Identification of department/agency office (AAC), here N00062. Positions 7-8: Last two digits of the fiscal year in which the procurement instrument is issued or awarded, here 17. Position 9: Type of instrument, here C. Positions 10-13: Four position agency assigned number, here 0001."
+  },
+  "provision.png": {
+    "kind": "illustration",
+    "section": "52.101",
+    "text": "Figure 1. Make-up of the provision or clause number 52.243-1 Changes—Fixed Price: \"52.2\" is the Part and Subpart (Invariable); \"43\" is the Section (Keyed to Subject Matter; Clause is Prescribed in Part 43); \"-1\" is the Subsection (Sequential Number within 52.243); \"Changes—Fixed Price\" is the Title."
+  },
+  "ContractMod.png": {
+    "kind": "illustration",
+    "section": "53.200",
+    "text": "Make-up of the form section number 53.243 Contract Modifications (SF 30): \"53.2\" is the PART AND SUBPART (INVARIABLE); \"43\" is the SECTION (KEYED TO FAR PART CONTAINING SUBJECT MATTER: USAGE REQUIREMENTS FOR SF 30 ARE ADDRESSED IN PART 43, CONTRACT MODIFICATIONS)."
+  }
+}

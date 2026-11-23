@@ -1,0 +1,524 @@
+{
+ "fac_number": "2026-01",
+ "effective_date": "2026-03-13",
+ "input": "dita_html",
+ "files": {
+  "html_total": 3893,
+  "sections": 3496,
+  "parts": 53,
+  "subparts": 319,
+  "subchapters": 8,
+  "navigation_groups": 8,
+  "skipped": [
+   "Corrections.html",
+   "Cover_1.html",
+   "Cover_2.html",
+   "Foreword_a.html",
+   "Foreword_b.html",
+   "LSATable.html",
+   "Volume_I.html",
+   "Volume_II.html",
+   "index.html"
+  ]
+ },
+ "hierarchy": {
+  "subchapter": 8,
+  "part": 53,
+  "subpart": 319,
+  "section": 1920,
+  "subsection": 1576
+ },
+ "sections": {
+  "total": 3496,
+  "with_text": 3114,
+  "without_text": 382,
+  "title_reserved": 230,
+  "by_kind": {
+   "section": 2886,
+   "provision": 142,
+   "clause": 468
+  },
+  "with_definitions": 269
+ },
+ "blocks": {
+  "total": 31420,
+  "by_type": {
+   "paragraph": 28608,
+   "definition": 1485,
+   "clause_heading": 612,
+   "end_marker": 608,
+   "table": 88,
+   "heading": 10,
+   "figure": 9
+  }
+ },
+ "word_counts": {
+  "note": "sections with text only; a top-level group is a depth-1 paragraph plus everything under it",
+  "section": {
+   "count": 3114,
+   "total": 930528,
+   "mean": 298.8,
+   "median": 152,
+   "p75": 326,
+   "p90": 646,
+   "p95": 955,
+   "p99": 2326,
+   "max": 15120
+  },
+  "top_level_group": {
+   "count": 14059,
+   "total": 930528,
+   "mean": 66.2,
+   "median": 38,
+   "p75": 76,
+   "p90": 141,
+   "p95": 213,
+   "p99": 482,
+   "max": 3916
+  },
+  "block": {
+   "count": 31420,
+   "total": 930528,
+   "mean": 29.6,
+   "median": 21,
+   "p75": 39,
+   "p90": 65,
+   "p95": 84,
+   "p99": 139,
+   "max": 3606
+  },
+  "sections_over": {
+   "300": 851,
+   "500": 471,
+   "800": 221,
+   "1500": 75,
+   "3000": 17
+  },
+  "top_level_groups_over": {
+   "300": 381,
+   "500": 127,
+   "800": 46,
+   "1500": 10
+  },
+  "blocks_over": {
+   "300": 12,
+   "500": 4,
+   "800": 3
+  }
+ },
+ "largest_sections": [
+  {
+   "section": "2.101",
+   "title": "Definitions.",
+   "word_count": 15120
+  },
+  {
+   "section": "52.219-9",
+   "title": "Small Business Subcontracting Plan.",
+   "word_count": 8386
+  },
+  {
+   "section": "52.212-3",
+   "title": "Offeror Representations and Certifications—Commercial Products and Commercial Services.",
+   "word_count": 7481
+  },
+  {
+   "section": "52.232-12",
+   "title": "Advance Payments.",
+   "word_count": 6372
+  },
+  {
+   "section": "52.212-4",
+   "title": "Contract Terms and Conditions—Commercial Products and Commercial Services.",
+   "word_count": 5896
+  },
+  {
+   "section": "31.205-6",
+   "title": "Compensation for personal services.",
+   "word_count": 5734
+  },
+  {
+   "section": "52.245-1",
+   "title": "Government Property.",
+   "word_count": 5118
+  },
+  {
+   "section": "15.408",
+   "title": "Solicitation provisions and contract clauses.",
+   "word_count": 5096
+  },
+  {
+   "section": "52.222-41",
+   "title": "Service Contract Labor Standards.",
+   "word_count": 3639
+  },
+  {
+   "section": "52.212-5",
+   "title": "Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services.",
+   "word_count": 3631
+  },
+  {
+   "section": "16.505",
+   "title": "Ordering.",
+   "word_count": 3590
+  },
+  {
+   "section": "52.227-14",
+   "title": "Rights in Data-General.",
+   "word_count": 3314
+  },
+  {
+   "section": "52.248-1",
+   "title": "Value Engineering.",
+   "word_count": 3283
+  },
+  {
+   "section": "52.232-27",
+   "title": "Prompt Payment for Construction Contracts.",
+   "word_count": 3205
+  },
+  {
+   "section": "52.222-50",
+   "title": "Combating Trafficking in Persons.",
+   "word_count": 3181
+  }
+ ],
+ "blocks_over_500_words": [
+  {
+   "section": "15.408",
+   "block_id": "FAR_15_408__i1106753",
+   "type": "table",
+   "path": "(n)(2)(iii)",
+   "word_count": 3606
+  },
+  {
+   "section": "1.106",
+   "block_id": "FAR_1_106__b1",
+   "type": "table",
+   "path": null,
+   "word_count": 1445
+  },
+  {
+   "section": "42.1503",
+   "block_id": "FAR_42_1503__iTable_42-2",
+   "type": "table",
+   "path": null,
+   "word_count": 925
+  },
+  {
+   "section": "53.300",
+   "block_id": "FAR_53_300__b2",
+   "type": "table",
+   "path": "(a)",
+   "word_count": 702
+  }
+ ],
+ "figures": [
+  {
+   "file": "FARNumbering.png",
+   "image_path": "Graphics/FARNumbering.png",
+   "image_found": true,
+   "transcribed": true,
+   "figure_kind": "illustration",
+   "text": "Make-up of the FAR number citation 25.108-2: \"25\" is the Part; \"1\" is the Subpart; \"08\" is the Section; \"2\" is the Subsection.",
+   "section": "1.105-2"
+  },
+  {
+   "file": "32.503-10formula1.jpg",
+   "image_path": "Graphics/32.503-10formula1.jpg",
+   "image_found": true,
+   "transcribed": true,
+   "figure_kind": "formula",
+   "text": "($2,000,000 × 80%) ÷ $2,200,000 = 72.7%",
+   "section": "32.503-10"
+  },
+  {
+   "file": "32.503-10formula2.jpg",
+   "image_path": "Graphics/32.503-10formula2.jpg",
+   "image_found": true,
+   "transcribed": true,
+   "figure_kind": "formula",
+   "text": "($2,000,000 × 85%) ÷ $2,200,000 = 77.3%",
+   "section": "32.503-10"
+  },
+  {
+   "file": "32.503-6Formula.jpg",
+   "image_path": "Graphics/32.503-6Formula.jpg",
+   "image_found": true,
+   "transcribed": true,
+   "figure_kind": "formula",
+   "text": "Loss ratio factor: $3,000,000 ÷ $3,600,000 = 83.3%",
+   "section": "32.503-6"
+  },
+  {
+   "file": "piid.png",
+   "image_path": "Graphics/piid.png",
+   "image_found": true,
+   "transcribed": true,
+   "figure_kind": "illustration",
+   "text": "Example PIID N00062 17 C 0001, by position and contents. Positions 1-6: Identification of department/agency office (AAC), here N00062. Positions 7-8: Last two digits of the fiscal year in which the procurement instrument is issued or awarded, here 17. Position 9: Type of instrument, here C. Positions 10-13: Four position agency assigned number, here 0001.",
+   "section": "4.1603"
+  },
+  {
+   "file": "47.403-3image1.jpg",
+   "image_path": "Graphics/47.403-3image1.jpg",
+   "image_found": true,
+   "transcribed": true,
+   "figure_kind": "formula",
+   "text": "(Sum of U.S.-flag carrier segment mileage, authorized ÷ Sum of all segment mileage, authorized) × Fare payable by Government",
+   "section": "47.403-3"
+  },
+  {
+   "file": "47.403-3image2.jpg",
+   "image_path": "Graphics/47.403-3image2.jpg",
+   "image_found": true,
+   "transcribed": true,
+   "figure_kind": "formula",
+   "text": "MINUS (Sum of U.S.-flag carrier segment mileage, traveled ÷ Sum of all segment mileage, traveled) × Through fare payed",
+   "section": "47.403-3"
+  },
+  {
+   "file": "provision.png",
+   "image_path": "Graphics/provision.png",
+   "image_found": true,
+   "transcribed": true,
+   "figure_kind": "illustration",
+   "text": "Figure 1. Make-up of the provision or clause number 52.243-1 Changes—Fixed Price: \"52.2\" is the Part and Subpart (Invariable); \"43\" is the Section (Keyed to Subject Matter; Clause is Prescribed in Part 43); \"-1\" is the Subsection (Sequential Number within 52.243); \"Changes—Fixed Price\" is the Title.",
+   "section": "52.101"
+  },
+  {
+   "file": "ContractMod.png",
+   "image_path": "Graphics/ContractMod.png",
+   "image_found": true,
+   "transcribed": true,
+   "figure_kind": "illustration",
+   "text": "Make-up of the form section number 53.243 Contract Modifications (SF 30): \"53.2\" is the PART AND SUBPART (INVARIABLE); \"43\" is the SECTION (KEYED TO FAR PART CONTAINING SUBJECT MATTER: USAGE REQUIREMENTS FOR SF 30 ARE ADDRESSED IN PART 43, CONTRACT MODIFICATIONS).",
+   "section": "53.200"
+  }
+ ],
+ "checks": {
+  "text_conservation_failures": [],
+  "table_text_mismatches": 0,
+  "unresolved_parents": [],
+  "nodes_without_parent": [],
+  "unresolved_cross_refs": {},
+  "figures_missing_file_or_transcription": [],
+  "depth_jumps": 18,
+  "clauses_without_prescription": [],
+  "clause_kind_conflicts": [
+   {
+    "section": "52.209-1",
+    "prescription_says": "clause",
+    "end_marker_says": "provision",
+    "used": "clause"
+   },
+   {
+    "section": "52.232-13",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.232-14",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.232-15",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.247-4",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.247-6",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.247-20",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.247-45",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.247-46",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.247-47",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.247-49",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.247-50",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.247-53",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.247-56",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   },
+   {
+    "section": "52.252-3",
+    "prescription_says": "provision",
+    "end_marker_says": "clause",
+    "used": "provision"
+   }
+  ],
+  "misnamed_files": [
+   {
+    "file": "42.200.html",
+    "section": "40.200"
+   }
+  ],
+  "runin_labels_inferred": 22
+ },
+ "warnings": [
+  {
+   "type": "depth_jump",
+   "section": "52.230-7",
+   "block_id": "FAR_52_230_7__d3496e34",
+   "detail": "(1) at depth 2 has no paragraph at depth 1"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.230-7",
+   "block_id": "FAR_52_230_7__d3496e39",
+   "detail": "(2) at depth 2 has no paragraph at depth 1"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.232-38",
+   "block_id": "FAR_52_232_38__d3536e28",
+   "detail": "(1) at depth 2 has no paragraph at depth 1"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.232-38",
+   "block_id": "FAR_52_232_38__d3536e33",
+   "detail": "(2) at depth 2 has no paragraph at depth 1"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.232-38",
+   "block_id": "FAR_52_232_38__d3536e38",
+   "detail": "(3) at depth 2 has no paragraph at depth 1"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.232-38",
+   "block_id": "FAR_52_232_38__d3536e43",
+   "detail": "(4) at depth 2 has no paragraph at depth 1"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.232-38",
+   "block_id": "FAR_52_232_38__d3536e48",
+   "detail": "(5) at depth 2 has no paragraph at depth 1"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.232-38",
+   "block_id": "FAR_52_232_38__d3536e53",
+   "detail": "(6) at depth 2 has no paragraph at depth 1"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.232-38",
+   "block_id": "FAR_52_232_38__d3536e58",
+   "detail": "(7) at depth 2 has no paragraph at depth 1"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.247-64",
+   "block_id": "FAR_52_247_64__d3742e86",
+   "detail": "(c)(2)(A) at depth 4 has no paragraph at depth 3"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.247-64",
+   "block_id": "FAR_52_247_64__d3742e91",
+   "detail": "(c)(2)(B) at depth 4 has no paragraph at depth 3"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.247-64",
+   "block_id": "FAR_52_247_64__d3742e96",
+   "detail": "(c)(2)(C) at depth 4 has no paragraph at depth 3"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.247-64",
+   "block_id": "FAR_52_247_64__d3742e101",
+   "detail": "(c)(2)(D) at depth 4 has no paragraph at depth 3"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.247-64",
+   "block_id": "FAR_52_247_64__d3742e106",
+   "detail": "(c)(2)(E) at depth 4 has no paragraph at depth 3"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.247-64",
+   "block_id": "FAR_52_247_64__d3742e111",
+   "detail": "(c)(2)(F) at depth 4 has no paragraph at depth 3"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.247-64",
+   "block_id": "FAR_52_247_64__d3742e116",
+   "detail": "(c)(2)(G) at depth 4 has no paragraph at depth 3"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.247-64",
+   "block_id": "FAR_52_247_64__d3742e121",
+   "detail": "(c)(2)(H) at depth 4 has no paragraph at depth 3"
+  },
+  {
+   "type": "depth_jump",
+   "section": "52.247-64",
+   "block_id": "FAR_52_247_64__d3742e126",
+   "detail": "(c)(2)(I) at depth 4 has no paragraph at depth 3"
+  },
+  {
+   "type": "clause_class_outside_part_52",
+   "section": "47.207-4",
+   "block_id": "",
+   "detail": "body conbody provision"
+  }
+ ]
+}
